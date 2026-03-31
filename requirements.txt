@@ -1,0 +1,9 @@
+streamlit
+streamlit-audiorecorder
+requests
+chromadb
+sentence-transformers
+groq
+pillow
+transformers
+torch
