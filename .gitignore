@@ -30,7 +30,6 @@ streamlit_stdout.log
 streamlit_stderr.log
 
 # Generated application data
-storage/
 
 # Editors and OS files
 .vscode/
