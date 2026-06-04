@@ -12,7 +12,7 @@ It currently includes:
 - Doctor dashboard
 - Receptionist dashboard
 - Admin dashboard for dataset and staff management
-
+ 
 ## Project Structure
 
 - `app.py` - patient intake page and staff login
